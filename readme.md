@@ -28,6 +28,6 @@ Feel free to explore and use these assets in your own projects. To access the 3D
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the assets, provided that you give appropriate credit and include the license in your projects.
+This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the assets, provided that you give appropriate credit and include the license in your projects
 
 Enjoy exploring the Mingo 3D Assets and let your imagination take flight! ✨
