@@ -1,4 +1,4 @@
-# Mingo 3D Assets
+# Mingo 3D Asset
 
 Welcome to the Mingo 3D Assets repository! 🚀
 
