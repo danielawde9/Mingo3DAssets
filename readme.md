@@ -1,6 +1,5 @@
 # Mingo 3D Asset
 
-
 Welcome to the Mingo 3D Assets repository! 🚀
 
 This repository contains a collection of stunning 3D assets created for Mingo, a platform that aims to provide immersive educational experiences. These assets bring science and visualization to life, allowing users to explore various concepts in a captivating way.
